@@ -12,7 +12,8 @@
 	},
 	"lint-staged": {
 		"**/*.{js,jsx,ts,tsx}": [
-			"npm run lint && prettier --write --ignore-unknown"
+			"npm run lint",
+			"prettier --write --ignore-unknown"
 		]
 	},
 	"dependencies": {
