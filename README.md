@@ -12,33 +12,33 @@ This demo app is a minimalistic React application scaffolded with Vite, a fast d
 
 Before you begin, make sure you have the following installed on your system:
 
-- Node.js (v14 or higher)
-- npm (Node Package Manager)
+-   Node.js (v14 or higher)
+-   npm (Node Package Manager)
 
 ### Getting Started
 
 1. Clone the Repository:
 
-   ```bash
-   git clone https://github.com/ManishPJha/husky-demo-app.git
-   cd husky-demo-app
-   ```
+    ```bash
+    git clone https://github.com/ManishPJha/husky-demo-app.git
+    cd husky-demo-app
+    ```
 
 2. Install Dependencies:
 
-   ```bash
-   npm install
-   ```
+    ```bash
+    npm install
+    ```
 
 ### Available Scripts
 
 You can run the following npm scripts:
 
-- `npm run dev`: Start the development server with Vite.
-- `npm run build`: Build the project for production.
-- `npm run format`: Format code using Prettier.
-- `npm run lint`: Lint your TypeScript and React code using ESLint.
-- `npm run preview`: Preview the production build locally.
+-   `npm run dev`: Start the development server with Vite.
+-   `npm run build`: Build the project for production.
+-   `npm run format`: Format code using Prettier.
+-   `npm run lint`: Lint your TypeScript and React code using ESLint.
+-   `npm run preview`: Preview the production build locally.
 
 ### Pre-commit Hooks
 
@@ -57,23 +57,23 @@ It runs `lint-staged`, which in turn runs ESLint and Prettier on the files that 
 
 ### Dependencies
 
-- `@reduxjs/toolkit`: A library for Redux state management.
-- `prettier`: A code formatter to keep your code consistent.
-- `react`, `react-dom`: Core React libraries.
-- `react-redux`: Official React bindings for Redux.
-- `react-router-dom`: React Router for navigation.
+-   `@reduxjs/toolkit`: A library for Redux state management.
+-   `prettier`: A code formatter to keep your code consistent.
+-   `react`, `react-dom`: Core React libraries.
+-   `react-redux`: Official React bindings for Redux.
+-   `react-router-dom`: React Router for navigation.
 
 ### Dev Dependencies
 
-- `@types/react`, `@types/react-dom`: TypeScript type definitions for React.
-- `@typescript-eslint/eslint-plugin`, `@typescript-eslint/parser`: ESLint plugins for TypeScript.
-- `@vitejs/plugin-react`: Vite plugin for React.
-- `eslint`: ESLint for code linting.
-- `eslint-plugin-react-hooks`, `eslint-plugin-react-refresh`: ESLint plugins for React best practices.
-- `husky`: Git hooks made easy.
-- `lint-staged`: Run linters on pre-committed files.
-- `typescript`: TypeScript language support.
-- `vite`: Build tool for frontend development.
+-   `@types/react`, `@types/react-dom`: TypeScript type definitions for React.
+-   `@typescript-eslint/eslint-plugin`, `@typescript-eslint/parser`: ESLint plugins for TypeScript.
+-   `@vitejs/plugin-react`: Vite plugin for React.
+-   `eslint`: ESLint for code linting.
+-   `eslint-plugin-react-hooks`, `eslint-plugin-react-refresh`: ESLint plugins for React best practices.
+-   `husky`: Git hooks made easy.
+-   `lint-staged`: Run linters on pre-committed files.
+-   `typescript`: TypeScript language support.
+-   `vite`: Build tool for frontend development.
 
 ## License
 
